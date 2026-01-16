@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "axios": "^1.12.2",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0",
+    "express": "^5.1.0",
+    "googleapis": "^156.0.0",
+    "lucide-react": "^0.562.0",
+    "recharts": "^3.6.0",
+    "tailwind-merge": "^3.4.0"
+  }
+}
