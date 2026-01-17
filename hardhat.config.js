@@ -10,6 +10,6 @@ module.exports = {
     }
   },
   etherscan: {
-    apiKey: process.env.ETHERSCAN_API_KEY,
+    apiKey: "B6ZF5K7TNIG315NURAU66YFYXID5MVC89C"
   },
 };
